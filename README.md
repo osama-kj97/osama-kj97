@@ -30,12 +30,11 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Python" width="26px" src="https://www.svgrepo.com/show/452091/python.svg" style="padding-right:10px;" />]
-[<img align="left" alt="PHP" width="26px" src="https://www.svgrepo.com/show/373969/php2.svg" style="padding-right:10px;" />]
+[<img align="left" alt="PHP" width="30px" src="https://www.svgrepo.com/show/373969/php2.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Laravel" width="26px" src="https://www.svgrepo.com/show/353985/laravel.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Tuesday, 13 February, 04:01 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+###
 
