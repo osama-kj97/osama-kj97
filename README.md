@@ -21,8 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/osama-darkowl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Osama Darkowl" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100090271362556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Osama Darkowl" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/osama-darkowl/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299433/linkedin.svg" alt="Osama Darkowl" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100090271362556" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="Osama Darkowl" height="30" width="40" /></a>
 <a href="https://wa.link/b3u4r7" target="blank"><img align="center" src="https://www.svgrepo.com/show/299438/whatsapp.svg" alt="Osama" height="30" width="40" /></a>
 </p>
 
