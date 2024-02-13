@@ -4,13 +4,13 @@
 <h3>Things I code with!</h3>
 
 <p>
-  <img alt="Python" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/f6a18e02-02f5-4fba-8c11-a966cc15035d" width="32" style="padding: 0px 20px"/>
-  <img alt="HTML" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/5fff16dd-9b39-4e10-b69b-f754d626a572" width="32" style="padding: 0px 20px"/>
-  <img alt="CSS" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/463d62e3-5ffb-4271-9a2c-7a05642a9253" width="32" style="padding: 0px 20px"/>
-  <img alt="PHP" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/ff82a988-4af7-45bd-8a75-e0ccb0952d88" width="32" style="padding: 0px 20px"/>
-  <img alt="Laravel" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/883b1f50-4913-4b4e-8ac4-36cbc4a3c8b8" width="32" style="padding: 0px 20px"/>
-  <img alt="ChatGPT" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/1e4b581c-5082-43fa-8c24-fb9016bb736f" width="32" style="padding: 0px 20px"/>
-  <img alt="Googler" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/2da2746f-7dd5-49df-b003-a0d1eb9b24dd" width="32" style="padding: 0px 20px"/>
+  <span style="padding: 0px 20px"><img alt="Python" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/f6a18e02-02f5-4fba-8c11-a966cc15035d" width="32"/></span>
+  <img alt="HTML" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/5fff16dd-9b39-4e10-b69b-f754d626a572" width="32"/>
+  <img alt="CSS" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/463d62e3-5ffb-4271-9a2c-7a05642a9253" width="32"/>
+  <img alt="PHP" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/ff82a988-4af7-45bd-8a75-e0ccb0952d88" width="32"/>
+  <img alt="Laravel" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/883b1f50-4913-4b4e-8ac4-36cbc4a3c8b8" width="32"/>
+  <img alt="ChatGPT" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/1e4b581c-5082-43fa-8c24-fb9016bb736f" width="32"/>
+  <img alt="Googler" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/2da2746f-7dd5-49df-b003-a0d1eb9b24dd" width="32"/>
   
   <!--<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
