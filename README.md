@@ -1,23 +1,23 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515251/12726/space_float.gif?1643515251" width="30"/> Ohh! So you found me.</h1>
 
 <h1 align="center">Hi 👋, I'm Osama Elnabris</h1>
-<h3 align="center">A passionate backend developer from Palestine</h3>
+<h3 align="center">A passionate backend developer from <img src="https://www.svgrepo.com/show/401722/flag-for-palestinian-territories.svg" width="24"/>Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=osama-kj97&label=Profile%20views&color=0e75b6&style=flat" alt="osama-kj97" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osama-kj97" alt="osama-kj97" /></a> </p>
 
-- 🔭 I’m currently working on **None**
+- 🔭 I’m currently looking for **Work**
 
 - 🌱 I’m currently learning **Data Analysis with Python**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Laravel, Python, myself ._.**
 
 - 📫 How to reach me **osama.elnabris@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1i0gRju9Ixqz2SiOaHXHTkxpIwbwBAN7LGMKkRHNpc60/edit?usp=sharing](https://docs.google.com/document/d/1i0gRju9Ixqz2SiOaHXHTkxpIwbwBAN7LGMKkRHNpc60/edit?usp=sharing)
 
-- ⚡ Fun fact **I am THICK**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
