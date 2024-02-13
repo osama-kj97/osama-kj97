@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515251/12726/space_float.gif?1643515251" width="30"/> Ohh! So you found me.</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643515251/12726/space_float.gif?1643515251" width="30"/> Ohh! So you found me.</h1>
 
 <h1 align="center">Hi 👋, I'm Osama Elnabris</h1>
 <h3 align="center">A passionate backend developer from <img src="https://www.svgrepo.com/show/401722/flag-for-palestinian-territories.svg" width="22" style="padding-right: 10px"/> Palestine</h3>
@@ -32,5 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osama-kj97&show_icons=true&locale=en" alt="osama-kj97" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osama-kj97&" alt="osama-kj97" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osama-kj97&" alt="osama-kj97" /></p>-->
 
