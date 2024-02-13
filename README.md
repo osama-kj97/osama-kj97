@@ -1,7 +1,7 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515251/12726/space_float.gif?1643515251" width="30"/> Hi! Feel like you home.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515251/12726/space_float.gif?1643515251" width="30"/> Hi! So you found me.</h1>
 
 
-<p>Welcome to my page! </br> I'm Osama, Backend! developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <img src="https://github.com/osama-kj97/osama-kj97/assets/132082843/39fd654a-a082-4fd2-9373-ce6be34d93b4"> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>Welcome to my page! </br> I'm Osama, Backend! developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <img src="https://github.com/osama-kj97/osama-kj97/assets/132082843/39fd654a-a082-4fd2-9373-ce6be34d93b4" width="13"> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
