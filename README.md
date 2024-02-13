@@ -4,7 +4,7 @@
 <h3>Things I code with!</h3>
 
 <p>
-  <span style="padding: 0px 20px"><img alt="Python" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/f6a18e02-02f5-4fba-8c11-a966cc15035d" width="32"/></span>
+  <span style="padding: 0px 20px:margin: 0px 20px"><img alt="Python" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/f6a18e02-02f5-4fba-8c11-a966cc15035d" width="32"/></span>
   <img alt="HTML" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/5fff16dd-9b39-4e10-b69b-f754d626a572" width="32"/>
   <img alt="CSS" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/463d62e3-5ffb-4271-9a2c-7a05642a9253" width="32"/>
   <img alt="PHP" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/ff82a988-4af7-45bd-8a75-e0ccb0952d88" width="32"/>
