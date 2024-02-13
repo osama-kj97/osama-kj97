@@ -11,7 +11,7 @@
 ![kid-google](https://github.com/osama-kj97/osama-kj97/assets/132082843/2da2746f-7dd5-49df-b003-a0d1eb9b24dd)
 
 <p>
-  <img alt="Python" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/f6a18e02-02f5-4fba-8c11-a966cc15035d" />
+  <img alt="Python" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/f6a18e02-02f5-4fba-8c11-a966cc15035d" width="32"/>
   <img alt="HTML" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/5fff16dd-9b39-4e10-b69b-f754d626a572" />
   <img alt="CSS" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/463d62e3-5ffb-4271-9a2c-7a05642a9253" />
   <img alt="PHP" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/ff82a988-4af7-45bd-8a75-e0ccb0952d88" />
