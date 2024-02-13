@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515251/12726/space_float.gif?1643515251" width="30"/> Hi! So you found me.</h1>
 
 <p>Welcome to my page! </br> I'm Osama, Backend developer from <img src="https://github.com/osama-kj97/osama-kj97/assets/132082843/3206e28c-344d-4269-a1de-55d06f45bfe4" width="13"/> <b>Gaza, Palestine</b>, currently living in <img src="https://github.com/osama-kj97/osama-kj97/assets/132082843/b358605d-7b27-44f9-b294-7350014e3826" width="13"/> <b>Tsukuba, Japan</b>. </p>
-<!-- <h3>Things I code with!</h3>-->
 
 ### Languages and Tools:
 
