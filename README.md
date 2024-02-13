@@ -15,14 +15,15 @@
 
 - 📫 How to reach me **osama.elnabris@gmail.com**
 
-- 📄 Know about my experiences [my Resumue](https://docs.google.com/document/d/1i0gRju9Ixqz2SiOaHXHTkxpIwbwBAN7LGMKkRHNpc60/edit?usp=sharing)
+- 📄 Know about my experiences [my resume](https://docs.google.com/document/d/1i0gRju9Ixqz2SiOaHXHTkxpIwbwBAN7LGMKkRHNpc60/edit?usp=sharing)
 
 - ⚡ Fun fact **I don't know any facts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/osama-darkowl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osama darkowl" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100090271362556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osama darkowl" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/osama-darkowl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Osama Darkowl" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100090271362556" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Osama Darkowl" height="30" width="40" /></a>
+<a href="https://wa.link/b3u4r7" target="blank"><img align="center" src="https://www.svgrepo.com/show/299438/whatsapp.svg" alt="Osama" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
