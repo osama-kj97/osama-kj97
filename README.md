@@ -11,7 +11,8 @@
   <img alt="Laravel" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/883b1f50-4913-4b4e-8ac4-36cbc4a3c8b8" width="48"/>
   <img alt="ChatGPT" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/1e4b581c-5082-43fa-8c24-fb9016bb736f" width="48"/>
   <img alt="Googler" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/2da2746f-7dd5-49df-b003-a0d1eb9b24dd" width="48"/>
-  
+  <img alt="Google that I Googling on ... Brave" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/731496e3-a1a2-4884-927d-26833c4462e7" width="48"/>
+
   <!--<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
