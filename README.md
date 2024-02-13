@@ -28,7 +28,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" aalt="HTML" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/5fff16dd-9b39-4e10-b69b-f754d626a572" width="48" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" aalt="Python" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/f6a18e02-02f5-4fba-8c11-a966cc15035d" width="48" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
