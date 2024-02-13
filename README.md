@@ -4,6 +4,7 @@
 <h3>Things I code with!</h3>
 
 <p>
+  <!--
   <span style="padding: 0px 20px:margin: 0px 20px"><img alt="Python" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/f6a18e02-02f5-4fba-8c11-a966cc15035d" width="48"/></span>
   <img alt="HTML" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/5fff16dd-9b39-4e10-b69b-f754d626a572" width="48"/>
   <img alt="CSS" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/463d62e3-5ffb-4271-9a2c-7a05642a9253" width="48"/>
@@ -28,8 +29,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/f6a18e02-02f5-4fba-8c11-a966cc15035d" width="32" style="padding-right:10px;" /><span style="padding: 10px"></span>]
 [<img align="left" alt="Python" width="26px" src="https://www.svgrepo.com/show/452091/python.svg" style="padding-right:10px;" />]
+[<img align="left" alt="PHP" width="26px" src="https://www.svgrepo.com/show/373969/php2.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Laravel" width="26px" src="https://www.svgrepo.com/show/353985/laravel.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
 
