@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **osama.elnabris@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1i0gRju9Ixqz2SiOaHXHTkxpIwbwBAN7LGMKkRHNpc60/edit?usp=sharing](https://docs.google.com/document/d/1i0gRju9Ixqz2SiOaHXHTkxpIwbwBAN7LGMKkRHNpc60/edit?usp=sharing)
+- 📄 Know about my experiences [my Resumue](https://docs.google.com/document/d/1i0gRju9Ixqz2SiOaHXHTkxpIwbwBAN7LGMKkRHNpc60/edit?usp=sharing)
 
 - ⚡ Fun fact ****
 
