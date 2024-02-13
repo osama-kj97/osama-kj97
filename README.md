@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [my Resumue](https://docs.google.com/document/d/1i0gRju9Ixqz2SiOaHXHTkxpIwbwBAN7LGMKkRHNpc60/edit?usp=sharing)
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact **I don't know any facts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
