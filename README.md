@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515251/12726/space_float.gif?1643515251" width="30"/> Ohh! So you found me.</h1>
 
 <h1 align="center">Hi 👋, I'm Osama Elnabris</h1>
-<h3 align="center">A passionate backend developer from <img src="https://www.svgrepo.com/show/401722/flag-for-palestinian-territories.svg" width="24"/>Palestine</h3>
+<h3 align="center">A passionate backend developer from <img src="https://www.svgrepo.com/show/401722/flag-for-palestinian-territories.svg" width="22" style="padding-right: 10px"/> Palestine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osama-kj97&label=Profile%20views&color=0e75b6&style=flat" alt="osama-kj97" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=osama-kj97&label=Profile%20views&color=0e75b6&style=flat" alt="osama-kj97" /> </p>-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osama-kj97" alt="osama-kj97" /></a> </p>
 
