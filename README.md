@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515251/12726/space_float.gif?1643515251" width="30"/> Hi! So you found me.</h1>
 
 <p>Welcome to my page! </br> I'm Osama, Backend developer from <img src="https://github.com/osama-kj97/osama-kj97/assets/132082843/3206e28c-344d-4269-a1de-55d06f45bfe4" width="13"/> <b>Gaza, Palestine</b>, currently living in <img src="https://github.com/osama-kj97/osama-kj97/assets/132082843/b358605d-7b27-44f9-b294-7350014e3826" width="13"/> <b>Tsukuba, Japan</b>. </p>
-<h3>Things I code with!</h3>
+<!-- <h3>Things I code with!</h3>-->
 
 <p>
   <!--
@@ -13,7 +13,7 @@
   <img alt="ChatGPT" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/1e4b581c-5082-43fa-8c24-fb9016bb736f" width="48"/>
   <img alt="Googler" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/2da2746f-7dd5-49df-b003-a0d1eb9b24dd" width="48"/>
   <img alt="Google that I Googling on ... Brave" src="https://github.com/osama-kj97/osama-kj97/assets/132082843/731496e3-a1a2-4884-927d-26833c4462e7" width="48"/>
-
+  -->
   <!--<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
